@@ -1,0 +1,101 @@
+.myself{
+    border-radius: 50%;
+    height: 20vh;
+    margin-top: 10px;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.pro{
+    font-style: italic;
+    color: green;
+}
+
+h1 {
+    color: #66bfbf;;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.title-text{
+    text-align: center;
+}
+
+
+div {
+    display: block;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.profile{
+    text-align: center;
+}
+
+.skills{
+    margin-top: 5px;
+}
+
+.section{
+    padding: 75px 0;
+}
+
+.skill-img {
+    height: 50px;
+    margin: 2px;
+}
+
+.section.content{
+    margin: 50px;
+}
+
+.card {
+    padding: 40px 30px 60px 30px;
+    margin: 10px auto;
+    width: 300px;
+  }
+  
+
+
